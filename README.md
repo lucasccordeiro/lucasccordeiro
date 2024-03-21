@@ -1,4 +1,6 @@
-### Hi there 👋
+- [![GitHub stars](https://img.shields.io/github/stars/esbmc/esbmc.svg)](https://github.com/esbmc/esbmc)
+[![GitHub All Releases](https://img.shields.io/github/downloads/esbmc/esbmc/total.svg)](https://github.com/esbmc/esbmc/releases)
+[**ESBMC**](https://github.com/esbmc/esbmc) is a software model checker for detecting and proving the absence of runtime errors for C/C++, Kotlin, Python, and Solidity programs.
 
 <!--
 **lucasccordeiro/lucasccordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
